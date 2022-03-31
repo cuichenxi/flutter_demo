@@ -3,6 +3,6 @@
 Demonstrates how to use the flutter_boost plugin.
 
 ## Getting Started
-1
+1 2
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
